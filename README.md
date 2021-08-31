@@ -19,4 +19,4 @@ A discord chatbot which I made following this tutorial - https://www.youtube.com
 
 
 
-![Screenshot](/images/Capture.jpg)
+                          ![Screenshot](/images/Capture.jpg)
